@@ -20,7 +20,7 @@
 
 
 ## 🚀 Hi I am Alexander Takele Mengesha
-Data Scientist | Backend Software Engineer |Python | JS
+Data Scientist | Backend Software Engineer | Python | NodeJS 
 
 
 ## 🔗 Links
